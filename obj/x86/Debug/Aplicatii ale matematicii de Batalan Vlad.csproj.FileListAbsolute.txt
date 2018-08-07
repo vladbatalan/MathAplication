@@ -1,0 +1,94 @@
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.csproj.GenerateResource.Cache
+D:\Vlad\C3 project\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\10 D\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.csproj.GenerateResource.Cache
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form10.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form11.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form12.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Proprietati_Bisectoare.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.csprojResolveAssemblyReference.cache
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Propietati_Mediana.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Propietati_Inaltime.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form15.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form16.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Test_Usor_Pagina_1.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Test_Mediu.resources
+D:\Vlad\C3 project\Operation backup\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Test_Greu.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\bin\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.csprojResolveAssemblyReference.cache
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Propietati_Mediana.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Propietati_Inaltime.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form15.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form16.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form10.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form11.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form12.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Proprietati_Bisectoare.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Test_Greu.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Test_Mediu.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\WindowsFormsApplication1.Test_Usor_Pagina_1.resources
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.csproj.GenerateResource.Cache
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.exe
+D:\C#\Aplicatii ale matematicii de Batalan Vlad\obj\x86\Debug\Aplicatii ale matematicii de Batalan Vlad.pdb
